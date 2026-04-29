@@ -12,7 +12,7 @@ link:"https://en.wikipedia.org/wiki/Paris"
 id:2,
 title:"Rome",
 description:"Historic city full of ancient landmarks.",
-imageUrl:"images/rome.jpg",
+imageUrl:"images/rome.JPG",
 link:"https://en.wikipedia.org/wiki/Rome"
 },
 
@@ -20,7 +20,7 @@ link:"https://en.wikipedia.org/wiki/Rome"
 id:3,
 title:"Tokyo",
 description:"Modern city with amazing culture.",
-imageUrl:"images/tokyo.jpg",
+imageUrl:"images/tokyo.JPG",
 link:"https://en.wikipedia.org/wiki/Tokyo"
 }
 
